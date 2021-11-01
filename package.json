@@ -1,0 +1,20 @@
+{
+  "name": "50DaysOfCode",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <a href=\"https://xord.com\">     <img height=\"200px\" src=\"https://user-images.githubusercontent.com/38910854/139008903-29dda3eb-cc8d-47a3-8bdf-b1f7dd86e460.jpg\" class=\"attachment-full size-full\" alt=\"xord banner\" loading=\"lazy\" /></a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/XORD-one/50DaysOfCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XORD-one/50DaysOfCode/issues"
+  },
+  "homepage": "https://github.com/XORD-one/50DaysOfCode#readme"
+}
