@@ -1,4 +1,3 @@
-"use strict";
 function findNumbers(nums) {
     var counter = 0;
     nums.forEach(function (num) {

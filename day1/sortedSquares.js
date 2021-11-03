@@ -1,4 +1,3 @@
-"use strict";
 function sortedSquares(nums) {
     var squares = nums.map(function (n) {
         return n * n;

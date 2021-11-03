@@ -1,4 +1,3 @@
-"use strict";
 // code
 function findMaxConsecutiveOnes(nums) {
     var max = 0;
