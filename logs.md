@@ -16,3 +16,21 @@
 ### Day 3: November 3, 2021
 
 **Today's Progress**: Completed array 101 all problems and chapter of leetcode.
+
+### Day 4: November 4, 2021
+
+**Today's Progress**: started the strings and array portion of leetcode and learn some strings concepts.
+### Day 5: November 5, 2021
+
+**Today's Progress**: Completed the 2d array problems along with basic strings problems.
+### Day 6: November 6, 2021
+
+**Today's Progress**: Completed the strings methods and reverse methods.
+
+### Day 7: November 8, 2021
+
+**Today's Progress**: Completed strings and 2d array methods problems and chapter of leetcode.
+
+### Day 8: November 18, 2021
+
+**Today's Progress**: Started learning linked list and designed my first linked list on TypeScript.
